@@ -1,2 +1,1 @@
-# UnderCover
-This is another repository for practicing the GitHub Flow 
+I lie Under the Covers
